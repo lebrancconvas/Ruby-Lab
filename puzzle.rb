@@ -1,0 +1,2 @@
+inputs = "()())"
+puts inputs.chars
